@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "One Click Jokes",
+  "description": "Add a dash of humor to your browsing experience with the One Click Jokes",
+  "version": "1.0",
+  "author": "Shashank",
+  "icons": {
+    "128": "icon.png"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": ["activeTab"]
+}
